@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\Vježbe PMF\4. semestar\AUP\Madjarski_algoritam\Madjarski_algoritam\bin\Debug\net5.0\Madjarski_algoritam.exe
+C:\Users\HP\Documents\Vježbe PMF\4. semestar\AUP\Madjarski_algoritam\Madjarski_algoritam\bin\Debug\net5.0\Madjarski_algoritam.deps.json
+C:\Users\HP\Documents\Vježbe PMF\4. semestar\AUP\Madjarski_algoritam\Madjarski_algoritam\bin\Debug\net5.0\Madjarski_algoritam.runtimeconfig.json
+C:\Users\HP\Documents\Vježbe PMF\4. semestar\AUP\Madjarski_algoritam\Madjarski_algoritam\bin\Debug\net5.0\Madjarski_algoritam.runtimeconfig.dev.json
+C:\Users\HP\Documents\Vježbe PMF\4. semestar\AUP\Madjarski_algoritam\Madjarski_algoritam\bin\Debug\net5.0\Madjarski_algoritam.dll
+C:\Users\HP\Documents\Vježbe PMF\4. semestar\AUP\Madjarski_algoritam\Madjarski_algoritam\bin\Debug\net5.0\ref\Madjarski_algoritam.dll
+C:\Users\HP\Documents\Vježbe PMF\4. semestar\AUP\Madjarski_algoritam\Madjarski_algoritam\bin\Debug\net5.0\Madjarski_algoritam.pdb
+C:\Users\HP\Documents\Vježbe PMF\4. semestar\AUP\Madjarski_algoritam\Madjarski_algoritam\obj\Debug\net5.0\Madjarski_algoritam.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Vježbe PMF\4. semestar\AUP\Madjarski_algoritam\Madjarski_algoritam\obj\Debug\net5.0\Madjarski_algoritam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Vježbe PMF\4. semestar\AUP\Madjarski_algoritam\Madjarski_algoritam\obj\Debug\net5.0\Madjarski_algoritam.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Vježbe PMF\4. semestar\AUP\Madjarski_algoritam\Madjarski_algoritam\obj\Debug\net5.0\Madjarski_algoritam.AssemblyInfo.cs
+C:\Users\HP\Documents\Vježbe PMF\4. semestar\AUP\Madjarski_algoritam\Madjarski_algoritam\obj\Debug\net5.0\Madjarski_algoritam.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Vježbe PMF\4. semestar\AUP\Madjarski_algoritam\Madjarski_algoritam\obj\Debug\net5.0\Madjarski_algoritam.dll
+C:\Users\HP\Documents\Vježbe PMF\4. semestar\AUP\Madjarski_algoritam\Madjarski_algoritam\obj\Debug\net5.0\ref\Madjarski_algoritam.dll
+C:\Users\HP\Documents\Vježbe PMF\4. semestar\AUP\Madjarski_algoritam\Madjarski_algoritam\obj\Debug\net5.0\Madjarski_algoritam.pdb
+C:\Users\HP\Documents\Vježbe PMF\4. semestar\AUP\Madjarski_algoritam\Madjarski_algoritam\obj\Debug\net5.0\Madjarski_algoritam.genruntimeconfig.cache
